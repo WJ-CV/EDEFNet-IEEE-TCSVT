@@ -12,7 +12,7 @@ Network Architecture
 
 Pre-trained model and saliency map
 ===
-We provide [Saliency maps, model](https://pan.baidu.com/s/15_SSWFdRUzdVTM-NBjjURA)(code: 0825)  of our EDEFNet on RGB-D SOD datasets.
+We provide [Saliency maps, model](https://pan.baidu.com/s/1r3ERnKRbT_xfVs4eEw7iag)(code: 0825)  of our EDEFNet on RGB-D SOD datasets.
 
 Quantitative results
 ===
