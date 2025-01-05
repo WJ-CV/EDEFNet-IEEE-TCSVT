@@ -14,6 +14,14 @@ Network Architecture
 ====
 ![image](https://github.com/user-attachments/assets/7dda549a-5f7d-4b6f-819e-168412a6302a)
 
+Edge Refinement and Body Disentanglement (ERBD) and Body Aggregation and Edge Disentanglement (BAED)
+====
+![image](https://github.com/user-attachments/assets/04fb62d1-c717-41a1-bca1-b84cce202aa0)
+
+Edge Integrity Fusion (EIF) and Body Consistency Fusion (BCF)
+===
+![image](https://github.com/user-attachments/assets/e71e856d-cfff-4167-9194-2b70039e6a1d)
+
 Pre-trained model and saliency map
 ===
 We provide [Saliency maps, model](https://pan.baidu.com/s/1r3ERnKRbT_xfVs4eEw7iag)(code: 0825)  of our EDEFNet on RGB-D SOD datasets.
